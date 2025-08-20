@@ -6,6 +6,9 @@
 - 💡 Passionate about **clean architecture** and **performance optimization**
 - 📚 Following intensive 3-month Go development plan with focus on production-ready systems
 
+📫 **Let's connect:** [Email](danikmarkov467@gmail.com)
+
+
 ### 🛠️ Tech Stack
 **Languages:** 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -44,18 +47,11 @@
 **Current Specialization:** 
 High-performance Go development for cloud-native applications
 
-### 📈 Current Progress (3-Month Go Plan)
-**✅ Completed Phase 1-2: Core Fundamentals**
-- [x] **Go Basics**: Syntax, types, structs, interfaces
-- [x] **Concurrency**: Goroutines, channels, sync primitives  
-- [x] **CLI Utilities**: File processing, argument parsing
-
-**🔜 Next Up: Phase 3-4**
-- [ ] Distributed systems with gRPC
-- [ ] Kubernetes deployment patterns
-- [ ] Advanced database integration
-- [ ] Production monitoring setup
-- [ ] C/C++ Integration: Memory management, interoperability
+### 📈 3-Month Go Plan Progress
+| Phase | Focus | Status |
+|-------|-------|--------|
+| 1-2   | Go Basics, Concurrency, CLI | ✅ Completed |
+| 3-4   | gRPC, Kubernetes, Databases | 🔜 In Progress |
 
 ### 🎯 Featured Projects
 
@@ -141,4 +137,3 @@ I'm actively looking for opportunities to:
 
 ---
 
-📫 **Let's connect:** [Email](danikmarkov467@gmail.com)
